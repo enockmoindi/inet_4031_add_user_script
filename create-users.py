@@ -1,5 +1,12 @@
 #!/usr/bin/python3
 
+
+### Student Name: Enock Moindi
+### Program Name: create-users.py script
+### Program Creation Date: 2024-11-02
+### Prgram Last Updated Date: 2024-11-06
+
+
 # Import necessary libraries
 import os
 import re
